@@ -1,0 +1,83 @@
+{
+    "messages": {
+        "noPrivateMessages": "Özel mesajlara cevap vermiyorum.",
+        "voiceChannelNeeded": "Bunun için bir ses kanalında olmalısınız.",
+        "cannotConnect": "Ses kanalına katılamıyorum! Yeterince izinlerimin olduğuna emin olun.",
+        "noArgs": "Bir şeyler yazmalısınız.",
+        "sameVoiceChannel": "Müzik dinlemek için bot ile aynı kanalda bulunun.",
+        "nothingPlaying": "Şu an bir şey çalmıyor.",
+        "noMoreSongs": "Çalma listesinde müzik yok.",
+        "volBeetween": "Ses seviyesi `0` ve `100` arasında olmalı!",
+        "validNumberPosition": "Sayı `0` 'dan az olamaz..",
+        "couldNotBeFound": "Bu şarkı bulunamıyor.",
+        "restrictedOrNotFound": "Bu şarkı ülkenizde engelli ya da bulunamadı!",
+        "hasBeenAdded": "listeye eklendi.",
+        "errorWhileParsingVideo": "Bu videoyu ararken bir hata ile karşılaşıldı, geliştirici ile irtibata geçin.",
+        "errorWhileParsingPlaylist": "Çalma listesi getirilirken bir hata ile karşılaşıldı, geliştirici ile irtibata geçin."
+    },
+    "embeds": {
+        "createdMusicPlayer": {
+            "title": "Bilgi",
+            "description": "Vahşi bir müzik çalar belirdi!!"
+        },
+        "nowPlaying": {
+            "title": "🎵 Şimdi oynatılıyor",
+            "videoLink": "Video link",
+            "channelLink": "Channel link",
+            "remainingTime": "Kalan zaman:",
+            "live": "◉ CANLI"
+        },
+        "skipSong": {
+            "askedBy": "Tarafından istendi ",
+            "beenSkipped": "geçildi."
+        },
+        "volumeEmbed": {
+            "title": "🔊 Ses",
+            "changedFrom": "Seviyesinden şuna",
+            "to": "değiştirildi"
+        },
+        "pauseEmbed": {
+            "title": "Bilgi",
+            "description": "**⏸ Müzik durduruldu.**",
+            "askedBy": "Tarafından istendi "
+        },
+        "resumeEmbed": {
+            "title": "Bilgi",
+            "description": "**▶ Şarkıya devam edildi.**",
+            "askedBy": "Tarafından istendi "
+        },
+        "removeEmbed": {
+            "title": "🚫 Kaldırıldı",
+            "removedBy": "🔎 Tarafından kaldırıldı",
+            "published": "Gönderen",
+            "views": "İzlenme sayısı"
+        },
+        "errorEmbed": {
+            "title": "Hata!"
+        },
+        "playerDestroyedEmbed": {
+            "author": "Bilgi",
+            "description": "Müzik çalar öldürüldü :confused:"
+        },
+        "lyricsEmbed": {
+            "searching": "Aranıyor...",
+            "askedBy": "Tarafından istendi "
+        },
+        "playEmbed": {
+            "addedBy": "🔎 Tarafından eklendi",
+            "luckySearch": "şanslı arama sayesinde.",
+            "published": "Gönderen",
+            "views": "İzlenme sayısı"
+        },
+        "queueEmbed": {
+            "queue": "kuyruk"
+        },
+        "addEmbed": {
+            "playlist": "Çalma listesi",
+            "hasBeenAdded": "çalma listesine eklendi."
+        }
+    },
+    "presence": {
+        "nothing": "🎵 Çalınmıyor."
+    }
+}
