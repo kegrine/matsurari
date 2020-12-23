@@ -7,5 +7,5 @@ Discord'un en sakar ve şirin botu.
 
 # Bu paket MIT Lisansı ile korunmaktadır. 
 
-Lütfen bu Matsurari'yi kendiniz barındırmayın! Kopyalanan paketlere destek verilmemekte. Daha fazla bilgi için Kegrine.#6340 .
+Lütfen Matsurari'yi kendiniz barındırmayın! Kopyalanan paketlere destek verilmemekte. Daha fazla bilgi için Kegrine.#6340 .
 
